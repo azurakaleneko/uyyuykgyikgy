@@ -1,0 +1,12 @@
+body{
+    color: aquamarine;
+    background-color: black;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_objet{
+    color: peru;
+}
